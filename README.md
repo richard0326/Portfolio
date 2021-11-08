@@ -35,17 +35,52 @@
 
 - 각 서버의 시퀀스 다이어그램  
   
-![채팅서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
-![로그인서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
-![MMORPG 에코 서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
-  
+<details>
+    <summary>채팅서버 다이어그램</summary>
+    <div markdown="2"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG" alt="채팅서버 다이어그램">
+    </div>
+</details>
+
+<details>
+    <summary>로그인서버 다이어그램</summary>
+    <div markdown="3"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG" alt="로그인서버 다이어그램">
+    </div>
+</details>
+
+<details>
+    <summary>MMORPG 에코 서버 다이어그램</summary>
+    <div markdown="4"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG" alt="MMORPG 에코 서버 다이어그램">
+    </div>
+</details>
+    
   
 - 안정화 테스트 설명 및 사진들  
   
-![pdh 설명](https://github.com/richard0326/Portfolio/blob/main/pdh%EC%84%A4%EB%AA%85.PNG)  
-![채팅서버 설명](https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%A4%EB%AA%85.PNG)  
-![로그인서버 설명](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%A4%EB%AA%85.PNG)  
-![MMORPG 에코 서버 설명](https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%A4%EB%AA%85.PNG)  
+  
+<details>
+    <summary>pdh 설명</summary>
+    <div markdown="5"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/pdh%EC%84%A4%EB%AA%85.PNG">
+    </div>
+    
+    <summary>채팅서버 설명</summary>
+    <div markdown="6"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%A4%EB%AA%85.PNG">
+    </div>
+    
+    <summary>로그인서버 설명</summary>
+    <div markdown="7"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%A4%EB%AA%85.PNG">
+    </div>
+    
+    <summary>MMORPG 에코 서버 설명</summary>
+    <div markdown="8"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%A4%EB%AA%85.PNG">
+    </div>
+</details>
   
 4~5일 안정화 테스트에서 이상 없이 잘 돌아갔으며,  
 학원에서 졸업 기준치를 상회하는 서버를 만든 인증 사진임.  
