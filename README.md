@@ -33,7 +33,7 @@
 </details>
 
 각 서버의 시퀀스 다이어그램  
-  
+=========== 
 <details>
     <summary>채팅서버 시퀀스 다이어그램</summary>
     <div markdown="2"> 
@@ -55,7 +55,7 @@
     
   
 안정화 테스트 설명 및 사진들  
-  
+=========== 
   
 <details>
     <summary>pdh 실행화면 설명</summary>
@@ -111,8 +111,8 @@
     
 </details>
   
-- NetServer 설명  
-   
+NetServer 설명  
+=========== 
 [NetServer.h](https://github.com/richard0326/Portfolio/blob/main/NetServer.h)  
   
   
@@ -135,8 +135,8 @@
 [ChattingServer_model3.h](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model3.h)  
   
   
-- MMORPGServer 설명  
-  
+MMORPGServer 설명  
+=========== 
 [MMORPGServer.h](https://github.com/richard0326/Portfolio/blob/main/MMOServer.h)   
   
   
@@ -156,8 +156,8 @@ MMORPGServer 내부 스레드에서 폴링하면서 st_Session을 직접 접근�
 예) OnAuth_XXXX, OnGame_XXXX  
   
   
-- 로그인 서버 구조  
-  
+로그인 서버 구조  
+=========== 
 DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지만, 객체화시키기고 사용할 정도로는 쓸 줄 알고 있음.  
 
 <details>
@@ -167,7 +167,6 @@ DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지�
     </div>
     
 </details>
-![]()  
   
   
 [DBConnector.h](https://github.com/richard0326/Portfolio/blob/main/DBConnector.h)
@@ -177,7 +176,8 @@ DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지�
 [RedisConnector.cpp](https://github.com/richard0326/Portfolio/blob/main/RedisConnector.cpp)
   
   
-- 락프리 메모리풀  
+락프리 메모리풀  
+=========== 
   
 내부적으로 락프리스택을 사용함.  
 메모리 관리를 Windows API 인 Virtual Alloc을 활용하여 해서, 유연하게 늘어나지는 않지만, 
