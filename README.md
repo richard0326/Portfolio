@@ -31,9 +31,9 @@
 
 - 각 서버의 시퀀스 다이어그램  
   
-[채팅서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
-[로그인서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
-[MMORPG 에코 서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
+![채팅서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
+![로그인서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
+![MMORPG 에코 서버 다이어그램](https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG)  
   
   
 - 안정화 테스트 설명 및 사진들  
