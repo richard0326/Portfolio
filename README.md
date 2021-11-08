@@ -177,10 +177,10 @@ DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지�
   
 내부적으로 락프리스택을 사용함.  
 메모리 관리를 Windows API 인 Virtual Alloc을 활용하여 해서, 유연하게 늘어나지는 않지만, 
-메모리 누수 추적에 용이함.
-스레드 간의 경함을 줄이기 위해서 만든 tls 활용한 스레드풀.  
+메모리 누수 추적에 용이함.  
+[LockFreePool.h](https://github.com/richard0326/Portfolio/blob/main/LockFreePool.h)   
   
-[LockFreePool.h](https://github.com/richard0326/Portfolio/blob/main/LockFreePool.h)  
+스레드 간의 경함을 줄이기 위해서 만든 tls 활용한 스레드풀.  
 [LockFreeTlsPoolA.h](https://github.com/richard0326/Portfolio/blob/main/LockFreeTlsPoolA.h)
   
   
