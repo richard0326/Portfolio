@@ -56,7 +56,7 @@
 [NetServer.h](https://github.com/richard0326/Portfolio/blob/main/NetServer.h)  
   
   
-포트폴리오에서 설명했던 모델 1, 3이 NetServer를 기반으로 만들어짐.  
+포트폴리오에서 설명했던 모델 1, 3이 NetServer를 상속 받아 만듦.  
 
 모델 1.  
 컨텐츠 부분에서 스레드를 1개 만들어서 Queueing 하는 방식으로 패킷을 처리하는 방식  
