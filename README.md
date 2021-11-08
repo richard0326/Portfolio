@@ -26,7 +26,7 @@
   
 - 서버 테스트 환경 경험에서 테스트 환경  
   
-[안정화 테스트 환경 이미지](https://github.com/richard0326/Portfolio/blob/main/2.PNG)  
+![안정화 테스트 환경 이미지](https://github.com/richard0326/Portfolio/blob/main/2.PNG)  
   
 
 - 각 서버의 시퀀스 다이어그램  
