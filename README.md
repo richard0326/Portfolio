@@ -4,13 +4,21 @@
 빠른 시일 내에 더 추가하도록 하겠습니다.  
 소스 코드는 메일로 요청하시면 일부 파일을 추가 공개할 수 있음.  
 메일 : richard0326@naver.com  
-
+  
+  
+  
+  
+  
 - 2021.11.06     
   
 포트폴리오에 대한 설명을 더 요청함.   
 컨텐츠 제작 경험 부족을 지적 받음.   
 시험에서 틀렸던 부분들은 대체로 그래픽스, DB에 대한 부분들이였음.   
-
+  
+  
+  
+  
+  
 - 2021.11.08  
    
 기존 pdf에서 조금 부족한 내용들을 글로 추가   
@@ -18,6 +26,8 @@
   
 서버 테스트 환경 경험에서 테스트 환경  
 [안정화 테스트 환경 이미지](https://github.com/richard0326/Portfolio/blob/main/2.PNG)  
+  
+  
   
 [NetServer Header file](https://github.com/richard0326/Portfolio/blob/main/NetServer.h)  
 - NetServer 설명
@@ -33,7 +43,9 @@
 멀티스레드를 고려해서 코딩해야함.  
 
 모델3은 수업에서 언급만 하셨던 것인데, 제가 시간을 따로 만들어서 만들고 테스트를 진행해본 모델입니다.  
-
+  
+  
+  
 [MMORPGServer Header file](https://github.com/richard0326/Portfolio/blob/main/MMOServer.h)   
 - MMORPGServer 설명  
   
