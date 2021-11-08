@@ -165,6 +165,7 @@ DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지�
 </details>
   
   
+로그인 서버에서 활용된 DB 객체, Redis 객체  
 [DBConnector.h](https://github.com/richard0326/Portfolio/blob/main/DBConnector.h)  
 [DBConnector.cpp](https://github.com/richard0326/Portfolio/blob/main/DBConnector.cpp)
   
