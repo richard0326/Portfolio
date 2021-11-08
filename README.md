@@ -99,7 +99,7 @@ MMORPGServer 내부 스레드에서 폴링하면서 st_Session을 직접 접근�
 - 로그인 서버 구조  
   
 DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지만, 객체화시키기고 사용할 정도로는 쓸 줄 알고 있음.  
-[로그인 서버 구조]()  
+[로그인 서버 구조](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.PNG)  
   
 [DBConnector.h](https://github.com/richard0326/Portfolio/blob/main/DBConnector.h)
 [DBConnector.cpp](https://github.com/richard0326/Portfolio/blob/main/DBConnector.cpp)
