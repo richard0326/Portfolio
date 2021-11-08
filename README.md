@@ -38,18 +38,18 @@
   
 - 안정화 테스트 설명 및 사진들  
   
-[pdh 설명](https://github.com/richard0326/Portfolio/blob/main/pdh%EC%84%A4%EB%AA%85.PNG)  
-[채팅서버 설명](https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%A4%EB%AA%85.PNG)  
-[로그인서버 설명](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%A4%EB%AA%85.PNG)  
-[MMORPG 에코 서버 설명](https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%A4%EB%AA%85.PNG)  
+![pdh 설명](https://github.com/richard0326/Portfolio/blob/main/pdh%EC%84%A4%EB%AA%85.PNG)  
+![채팅서버 설명](https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%A4%EB%AA%85.PNG)  
+![로그인서버 설명](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%A4%EB%AA%85.PNG)  
+![MMORPG 에코 서버 설명](https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%A4%EB%AA%85.PNG)  
   
 4~5일 안정화 테스트에서 이상 없이 잘 돌아갔으며,  
 학원에서 졸업 기준치를 상회하는 서버를 만든 인증 사진임.  
 기준치는 C#으로 만든 서버보다 빠른 서버 정도의 느낌이다.(학원 기준.)   
   
-[채팅서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/2020903%EC%9D%BC%EA%B9%8C%EC%A7%803.PNG)  
-[로그인서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/%EB%94%94%EC%9A%B4%ED%81%B4%EB%9D%BC%EB%B0%9C%EC%83%9D_%EC%9B%90%EC%9D%B8%EB%B6%88%EB%AA%85%206%EC%9D%BC.PNG)  
-[MMORPG 에코 서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/5%EC%9D%BC.PNG)  
+![채팅서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/2020903%EC%9D%BC%EA%B9%8C%EC%A7%803.PNG)  
+![로그인서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/%EB%94%94%EC%9A%B4%ED%81%B4%EB%9D%BC%EB%B0%9C%EC%83%9D_%EC%9B%90%EC%9D%B8%EB%B6%88%EB%AA%85%206%EC%9D%BC.PNG)  
+![MMORPG 에코 서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/5%EC%9D%BC.PNG)  
   
 - NetServer 설명  
    
@@ -99,7 +99,7 @@ MMORPGServer 내부 스레드에서 폴링하면서 st_Session을 직접 접근�
 - 로그인 서버 구조  
   
 DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지만, 객체화시키기고 사용할 정도로는 쓸 줄 알고 있음.  
-[로그인 서버 구조](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.PNG)  
+![로그인 서버 구조](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.PNG)  
   
 [DBConnector.h](https://github.com/richard0326/Portfolio/blob/main/DBConnector.h)
 [DBConnector.cpp](https://github.com/richard0326/Portfolio/blob/main/DBConnector.cpp)
