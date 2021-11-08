@@ -28,7 +28,7 @@
   
 <details>
     <summary>접기</summary>
-    <div markdown="1">
+    <div markdown="1">  
 ![안정화 테스트 환경 이미지](https://github.com/richard0326/Portfolio/blob/main/2.PNG)  
     </div>
 </details>
