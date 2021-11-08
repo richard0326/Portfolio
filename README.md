@@ -20,10 +20,23 @@
 [안정화 테스트 환경 이미지](https://github.com/richard0326/Portfolio/blob/main/2.PNG)  
   
 [NetServer Header file](https://github.com/richard0326/Portfolio/blob/main/NetServer.h)  
+- NetServer 설명
+  
+포트폴리오에서 설명했던 모델 1, 3이 NetServer를 기반으로 만들어짐.  
+
+모델 1.  
+컨텐츠 부분에서 스레드를 1개 만들어서 Queueing 하는 방식으로 패킷을 처리하는 방식  
+  
+모델 3.   
+각각의 IOThread에 OnRecv 가상 함수를 통해서 컨텐츠 부분에 패킷을 전달함.  
+컨텐츠에서는 큐잉하지 않고 바로 처리하는 방식으로 진행함.  
+멀티스레드를 고려해서 코딩해야함.  
+
+모델3은 수업에서 언급만 하셨던 것인데, 제가 시간을 따로 만들어서 만들고 테스트를 진행해본 모델입니다.  
 
 [MMORPGServer Header file](https://github.com/richard0326/Portfolio/blob/main/MMOServer.h)   
+- MMORPGServer 설명  
   
-- 설명  
 메모리 로그 관련 : DEBUG_LOCATION, st_ForDebug   
 일부 모니터링 정보는 디버그 모드에서만 출력되도록 진행함.  
    
