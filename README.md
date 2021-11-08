@@ -109,6 +109,7 @@ DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지�
   
   
 - 락프리 메모리풀  
+  
 내부적으로 락프리스택을 사용함.  
 메모리 관리를 Windows API 인 Virtual Alloc을 활용하여 해서, 유연하게 늘어나지는 않지만, 
 메모리 누수 추적에 용이함.
@@ -117,3 +118,5 @@ DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지�
 [LockFreePool.h](https://github.com/richard0326/Portfolio/blob/main/LockFreePool.h)  
 [LockFreeTlsPoolA.h](https://github.com/richard0326/Portfolio/blob/main/LockFreeTlsPoolA.h)
   
+  
+시간을 할애해서 컨텐츠 부분도 추가하여 올려보도록 노력하겠음.  
