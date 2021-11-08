@@ -18,65 +18,60 @@
     
 2021.11.08  
 ===========
-- 포트폴리오 추가 설명  
-  
-- (조금 부족한 내용들을 글, 사진 추가함.)   
+포트폴리오 추가 설명  
+(조금 부족한 내용들을 글, 사진 추가함.)   
   
 [pdf에 있던 안정화 테스트 영상 링크](https://www.youtube.com/watch?v=Y7Du3PCgPkg)  
   
-- 서버 테스트 환경 경험에서 테스트 환경  
+서버 테스트 환경 경험에서 테스트 환경  
   
 <details>
     <summary>안정화 테스트 환경 이미지</summary>
     <div markdown="1"> 
-        <img src="https://github.com/richard0326/Portfolio/blob/main/2.PNG" alt="안정화 테스트 환경 이미지">
+        <img src="https://github.com/richard0326/Portfolio/blob/main/2.PNG">
     </div>
 </details>
 
-- 각 서버의 시퀀스 다이어그램  
+각 서버의 시퀀스 다이어그램  
   
 <details>
-    <summary>채팅서버 다이어그램</summary>
+    <summary>채팅서버 시퀀스 다이어그램</summary>
     <div markdown="2"> 
-        <img src="https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG" alt="채팅서버 다이어그램">
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG">
     </div>
-</details>
-
-<details>
-    <summary>로그인서버 다이어그램</summary>
+    
+    <summary>로그인서버 시퀀스 다이어그램</summary>
     <div markdown="3"> 
-        <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG" alt="로그인서버 다이어그램">
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG">
     </div>
-</details>
-
-<details>
-    <summary>MMORPG 에코 서버 다이어그램</summary>
+    
+    <summary>MMORPG 에코 서버 시퀀스 다이어그램</summary>
     <div markdown="4"> 
-        <img src="https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG" alt="MMORPG 에코 서버 다이어그램">
+        <img src="https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%9C%EB%B2%84%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.PNG">
     </div>
 </details>
     
   
-- 안정화 테스트 설명 및 사진들  
+안정화 테스트 설명 및 사진들  
   
   
 <details>
-    <summary>pdh 설명</summary>
+    <summary>pdh 실행화면 설명</summary>
     <div markdown="5"> 
         <img src="https://github.com/richard0326/Portfolio/blob/main/pdh%EC%84%A4%EB%AA%85.PNG">
     </div>
     
-    <summary>채팅서버 설명</summary>
+    <summary>채팅서버 실행화면 설명</summary>
     <div markdown="6"> 
         <img src="https://github.com/richard0326/Portfolio/blob/main/%EC%B1%84%ED%8C%85%EC%84%A4%EB%AA%85.PNG">
     </div>
     
-    <summary>로그인서버 설명</summary>
+    <summary>로그인서버 실행화면 설명</summary>
     <div markdown="7"> 
         <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%A4%EB%AA%85.PNG">
     </div>
     
-    <summary>MMORPG 에코 서버 설명</summary>
+    <summary>MMORPG 에코 서버 실행화면 설명</summary>
     <div markdown="8"> 
         <img src="https://github.com/richard0326/Portfolio/blob/main/MMORPG%EC%84%A4%EB%AA%85.PNG">
     </div>
@@ -86,9 +81,23 @@
 학원에서 졸업 기준치를 상회하는 서버를 만든 인증 사진임.  
 기준치는 C#으로 만든 서버보다 빠른 서버 정도의 느낌이다.(학원 기준.)   
   
-![채팅서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/2020903%EC%9D%BC%EA%B9%8C%EC%A7%803.PNG)  
-![로그인서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/%EB%94%94%EC%9A%B4%ED%81%B4%EB%9D%BC%EB%B0%9C%EC%83%9D_%EC%9B%90%EC%9D%B8%EB%B6%88%EB%AA%85%206%EC%9D%BC.PNG)  
-![MMORPG 에코 서버 안정화 테스트 결과 이미지](https://github.com/richard0326/Portfolio/blob/main/5%EC%9D%BC.PNG)  
+<details>
+    <summary>채팅서버 안정화 테스트 결과 이미지</summary>
+    <div markdown="9"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/2020903%EC%9D%BC%EA%B9%8C%EC%A7%803.PNG">
+    </div>
+    
+    <summary>로그인서버 안정화 테스트 결과 이미지</summary>
+    <div markdown="10"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%94%94%EC%9A%B4%ED%81%B4%EB%9D%BC%EB%B0%9C%EC%83%9D_%EC%9B%90%EC%9D%B8%EB%B6%88%EB%AA%85%206%EC%9D%BC.PNG">
+    </div>
+    
+    <summary>MMORPG 에코 서버 안정화 테스트 결과 이미지</summary>
+    <div markdown="11"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/5%EC%9D%BC.PNG">
+    </div>
+    
+</details>
   
 - NetServer 설명  
    
@@ -138,7 +147,16 @@ MMORPGServer 내부 스레드에서 폴링하면서 st_Session을 직접 접근�
 - 로그인 서버 구조  
   
 DB 활용에 대해서 많이 물어보셔서 솔직하게 잘하진 못하지만, 객체화시키기고 사용할 정도로는 쓸 줄 알고 있음.  
-![로그인 서버 구조](https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.PNG)  
+
+<details>
+    <summary>로그인 서버 구조</summary>
+    <div markdown="12"> 
+        <img src="https://github.com/richard0326/Portfolio/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.PNG">
+    </div>
+    
+</details>
+![]()  
+  
   
 [DBConnector.h](https://github.com/richard0326/Portfolio/blob/main/DBConnector.h)
 [DBConnector.cpp](https://github.com/richard0326/Portfolio/blob/main/DBConnector.cpp)
