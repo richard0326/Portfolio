@@ -117,8 +117,9 @@ NetServer 설명
 모델 1.  
 컨텐츠 부분에서 스레드를 1개 만들어서 Queueing 하는 방식으로 패킷을 처리하는 방식  
   
-[ChattingServer_model1.cpp](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model1.cpp)  
-[ChattingServer_model1.h](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model1.h)  
+[ChattingServer_model1.cpp](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model1.cpp)   
+  
+[ChattingServer_model1.h](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model1.h)    
   
 모델 3.   
 각각의 IOThread에 OnRecv 가상 함수를 통해서 컨텐츠 부분에 패킷을 전달함.  
@@ -127,7 +128,8 @@ NetServer 설명
 
 모델3은 수업에서 언급만 하셨던 것인데, 제가 시간을 따로 만들어서 만들고 테스트를 진행해본 모델임.  
   
-[ChattingServer_model3.cpp](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model3.cpp)  
+[ChattingServer_model3.cpp](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model3.cpp)    
+  
 [ChattingServer_model3.h](https://github.com/richard0326/Portfolio/blob/main/ChattingServer_model3.h)  
   
   
